@@ -1,0 +1,14 @@
+D:\UDEMY\developpeurCS\jeuDeMaths\bin\Debug\net8.0\jeuDeMaths.exe
+D:\UDEMY\developpeurCS\jeuDeMaths\bin\Debug\net8.0\jeuDeMaths.deps.json
+D:\UDEMY\developpeurCS\jeuDeMaths\bin\Debug\net8.0\jeuDeMaths.runtimeconfig.json
+D:\UDEMY\developpeurCS\jeuDeMaths\bin\Debug\net8.0\jeuDeMaths.dll
+D:\UDEMY\developpeurCS\jeuDeMaths\bin\Debug\net8.0\jeuDeMaths.pdb
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\jeuDeMaths.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\jeuDeMaths.AssemblyInfoInputs.cache
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\jeuDeMaths.AssemblyInfo.cs
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\jeuDeMaths.csproj.CoreCompileInputs.cache
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\jeuDeMaths.dll
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\refint\jeuDeMaths.dll
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\jeuDeMaths.pdb
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\jeuDeMaths.genruntimeconfig.cache
+D:\UDEMY\developpeurCS\jeuDeMaths\obj\Debug\net8.0\ref\jeuDeMaths.dll
