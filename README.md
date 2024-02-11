@@ -1,2 +1,2 @@
 # C-
-I use this repository to stock all my C# project
+I use this repository to upload all my C# project
